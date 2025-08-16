@@ -4,3 +4,5 @@ pwd -> mostra o diretório de trabalho
 cat + nome do arquivo: exibe o conteúdo do arquivo
 rm + nome do arquivo: delta arquivo do diretório
 rm -rf + nome do arquivo: remove de forma recursiva e forçada todos diretórios
+
+teste
