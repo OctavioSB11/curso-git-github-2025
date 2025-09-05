@@ -7,6 +7,7 @@ Além disso vamos trabalhar com gitflow e visual studio code.
 Todos vídeos disponíveis no canal do Teo Me Why.
 
 # Fluxo de trabalho Git local
+
 1. git checkout -b
 2. cria ou atualiza arquivos
 3. git status
@@ -17,6 +18,7 @@ Todos vídeos disponíveis no canal do Teo Me Why.
 8. git merge nova_branch
 
 # Fluxo de trabalho GitHub <> Local (projeto próprio ou da sua empresa)
+
 1. git clone
 2. git checkout -b <nova_branch>
 3. alterações de arquivos
@@ -31,6 +33,7 @@ Todos vídeos disponíveis no canal do Teo Me Why.
 12. git branch -D <nova_branch>
 
 # Fluxo de trabalho GitHub <> Local (projetos open-source)
+
 1. Fork do projeto para seu próprio github
 2. git clone
 3. git checkout -b <nova_branch>
