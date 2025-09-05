@@ -6,6 +6,9 @@ Além disso vamos trabalhar com gitflow e visual studio code.
 
 Todos vídeos disponíveis no canal do Teo Me Why.
 
+[Curso git 2025] https://cursos.teomewhy.org/material_2025
+
+
 # Fluxo de trabalho Git local
 
 1. git checkout -b
