@@ -7,6 +7,7 @@ Além disso vamos trabalhar com gitflow e visual studio code.
 Todos vídeos disponíveis no canal do Teo Me Why.
 
 [Curso git 2025] https://cursos.teomewhy.org/material_2025
+[Links de padrões de commit] https://github.com/iuricode/padroes-de-commits
 
 
 # Fluxo de trabalho Git local
